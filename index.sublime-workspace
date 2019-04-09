@@ -1,0 +1,560 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"anfahrt",
+				"anfahrtkontakt"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"data",
+				"data-wow-delay"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"img",
+				"img-responisve"
+			],
+			[
+				"the",
+				"theunknowngirl.de"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"dre",
+				"dreh04.jpg"
+			],
+			[
+				"fade",
+				"fadeInRight"
+			],
+			[
+				"fad",
+				"fadeInRight"
+			],
+			[
+				"col-md",
+				"col-md-6"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"fo",
+				"footerlinks"
+			],
+			[
+				"sup",
+				"support"
+			],
+			[
+				"cd",
+				"cd-section"
+			],
+			[
+				"artwork1",
+				"artwork1dn.jpg"
+			],
+			[
+				"artowrk",
+				"artwork2.jpg"
+			],
+			[
+				"artwor",
+				"artwork1dn.jpg"
+			],
+			[
+				"dreh",
+				"dreh02.jpg"
+			],
+			[
+				"feat",
+				"features_list"
+			],
+			[
+				"text-",
+				"text-uppercase"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"open",
+				"open_regular"
+			],
+			[
+				"app",
+				"app_features"
+			],
+			[
+				"A",
+				"AbsurdsansFP"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"brush",
+				"brushsci-webfont"
+			],
+			[
+				"brus",
+				"brush-script-mt"
+			],
+			[
+				"abs",
+				"AbsurdsansFP"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ftp",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/ftpsync.settings",
+		"/Users/AliDND/Desktop/Moctezuma/css/ftpsync.settings",
+		"/Users/AliDND/Desktop/Moctezuma/css/main.css",
+		"/Users/AliDND/Desktop/Moctezuma/index.html",
+		"/Users/AliDND/Library/Application Support/Sublime Text 3/Packages/User/FTPSync.sublime-settings",
+		"/Users/AliDND/Library/Application Support/Sublime Text 3/Packages/FTPSync/FTPSync.sublime-settings",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/index.sublime-workspace",
+		"/Users/AliDND/Desktop/Moctezuma/css/style.css",
+		"/Users/AliDND/Desktop/theunknowngirl/index.html",
+		"/Users/AliDND/Desktop/theunknowngirl/css/main.css",
+		"/Users/AliDND/Desktop/html5up-spectral/index.html",
+		"/Users/AliDND/Desktop/html5up-spectral/assets/css/main.css",
+		"/Users/AliDND/Desktop/Moctezuma/index2.html",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/css/style.css",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/index.html",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/css/nav.css",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/about.html",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/making.html",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/crew.html",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/trailer.html",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/index_nav2.html",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/js/nav.js",
+		"/Users/AliDND/Desktop/Masala_Chai_Website/masalachaiwebneu/css/nav.scss",
+		"/Users/AliDND/Desktop/theunknowngirl/js/nav.js",
+		"/Users/AliDND/Documents/FEDesign/CD3P0/css/main.css",
+		"/Users/AliDND/Desktop/theunknowngirl/css/bootstrap.css",
+		"/Users/AliDND/Desktop/theunknowngirl/css/main2.css",
+		"/Users/AliDND/Desktop/Moctezuma/css/bootstrap.css",
+		"/Users/AliDND/Desktop/theunknowngirl/index_slideshow.html",
+		"/Users/AliDND/Desktop/theunknowngirl/css/style.css",
+		"/Users/AliDND/Desktop/Moctezuma/index_slideshow.html",
+		"/Users/AliDND/Desktop/mexicanrestaurant/css/main.css",
+		"/Users/AliDND/Desktop/mexicanrestaurant/index_slideshow.html",
+		"/Users/AliDND/Desktop/theunknowngirl/index_navneu.html",
+		"/Users/AliDND/Desktop/Slideshow/index.html",
+		"/Users/AliDND/Desktop/theunknowngirl/css/main_ei.css",
+		"/Users/AliDND/Desktop/Slideshow/css/slider.css",
+		"/Users/AliDND/Desktop/Slideshow/index2.html",
+		"/Users/AliDND/Desktop/Slideshow/ins/jquery-3.1.1.min.js",
+		"/Users/AliDND/Desktop/theunknowngirl/js/main2.js",
+		"/Users/AliDND/Desktop/Slideshow/css/main_ei.css",
+		"/Users/AliDND/Desktop/theunknowngirl/ins/browserdetect.js",
+		"/Users/AliDND/Desktop/theunknowngirl/css/ninja-slider.css",
+		"/Users/AliDND/Desktop/slippry-1.4.0/demo/index.html",
+		"/Users/AliDND/Desktop/theunknowngirl/index_slide.html",
+		"/Users/AliDND/Desktop/theunknowngirl/css/gallery.css",
+		"/Users/AliDND/Desktop/theunknowngirl/umsetzung.html",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/css/style.css",
+		"/Users/AliDND/Desktop/joni/vertical-fixed-navigation-2/index.html",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/css/main_navneu.css",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/index_navneu.html",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/js/photos.js",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/js/main.js",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/index_gallery_2.html",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/index_orgi.html",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/css/bootstrap.css",
+		"/Users/AliDND/Desktop/jqMap/StorytellingMap/demo/index.html",
+		"/Users/AliDND/Desktop/jqMap/StorytellingMap/dist/app.js",
+		"/Users/AliDND/Desktop/jqMap/StorytellingMap/demo/css/style.css",
+		"/Users/AliDND/Desktop/jQ Animated Map /StorytellingMap/dist/app.js",
+		"/Users/AliDND/Desktop/jQ Animated Map /StorytellingMap/src/index.js",
+		"/Users/AliDND/Desktop/jQ Animated Map /StorytellingMap/demo/index.html",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/css/main.css",
+		"/Users/AliDND/Desktop/joni/theunknowngirl/index.html",
+		"/Users/AliDND/Desktop/ribbonmaplo.svg",
+		"/Users/AliDND/Desktop/jQ Animated Map /StorytellingMap/src/component.js",
+		"/Users/AliDND/Desktop/Ribbon Map/ribbonsynth_map.svg",
+		"/Users/AliDND/Desktop/capture_pixelhint/index.html",
+		"/Users/AliDND/Desktop/capture_pixelhint/css/main.css",
+		"/Users/AliDND/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/AliDND/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/AliDND/Desktop/joni/index.htm",
+		"/Users/AliDND/Desktop/html5up-aerial/assets/css/main.css",
+		"/Users/AliDND/Desktop/html5up-aerial/index.html",
+		"/Users/AliDND/Documents/FEDesign/alidnd.com/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"caption",
+			"mainpage",
+			"nav",
+			"menu",
+			"main",
+			"cbp",
+			"footer",
+			"cgb-slide",
+			"cgb",
+			"uppercase",
+			"container",
+			"page-slider",
+			"end",
+			"support",
+			"film",
+			"main",
+			"film",
+			"#",
+			"parallax",
+			".li",
+			"li",
+			"cd-section",
+			"single",
+			"single-casestudy",
+			"single",
+			"loading",
+			"main",
+			"page-slider",
+			"480",
+			"nav",
+			"slider",
+			"loading",
+			"loading-slider",
+			"item",
+			"active",
+			"loop-inner",
+			"looper-inner",
+			"page-slider",
+			"a",
+			"body",
+			"intro",
+			"cd-section",
+			"cbp-bislideshow",
+			"main-footer",
+			"adress",
+			"support",
+			"cast",
+			"intro",
+			"intro cd-section",
+			"support",
+			"features_list",
+			"carousel slide",
+			"img",
+			"footer",
+			"a",
+			"p",
+			"umsetzung",
+			"label",
+			"active",
+			"cd-section",
+			"updateSections",
+			"update",
+			"hover",
+			"cd-section",
+			"crew",
+			"cd-section",
+			"cd-vertical-nav",
+			"cd-section",
+			"a",
+			"li",
+			"a",
+			"span",
+			"ul",
+			"header",
+			"nav",
+			"support",
+			"gallery",
+			"rig",
+			"header",
+			"1200",
+			"Wenn",
+			"support",
+			"crew",
+			"container",
+			"about3",
+			"hero",
+			"about",
+			"hero",
+			"nav",
+			"header .logo",
+			"about",
+			"video",
+			"img-responsive",
+			"img-fluid",
+			"footer",
+			"about",
+			"pull left",
+			"996\t\t\t\t\t\t",
+			"caption",
+			"header",
+			"media",
+			"video",
+			"about",
+			"header",
+			"footer",
+			"logo",
+			"list",
+			"header",
+			"hero",
+			"about",
+			"col-md-6",
+			"container",
+			"row",
+			"container",
+			".col",
+			".col-md-6 ",
+			".hero",
+			"iphone",
+			"hero",
+			"47ad76",
+			"h1",
+			"header",
+			"span",
+			"plane",
+			"container",
+			"map.svg",
+			"plane",
+			"map.svg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.asdf":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

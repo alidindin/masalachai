@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+	<title>Masala Chai</title>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta name="Masala Chai" content="Dokumentation Masala Chai Marco Hülser Indien Chai Wallahs"/>
+	<meta name="Ali Dindin" content="Masala Chai">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+		<script language="JavaScript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.js"></script>
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css"/>
+		<link rel="stylesheet" type="text/css" href="assets/css/normalize.css"/>
+
+
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
+
+<!--
+
+		<link rel="stylesheet" type="text/css" media="only screen and (max-width: 1200px) and (min-width: 768px)" href="assets/css/7681200.css"/>
+		<link rel="stylesheet" type="text/css" media="only screen and (max-width: 768px) and (min-width: 480px)" href="assets/css/480768.css"/>
+		<link rel="stylesheet" type="text/css" media="only screen and (max-width: 480px)" href="assets/css/320480.css"/>
+
+		 <!-- iPhone 5 -->
+
+		<link rel="stylesheet" type="text/css" media="only screen and (max-width: 640px)" href="assets/css/640.css"/>
+
+		<script language="JavaScript" type="text/javascript" src="assets/js/nav.js"></script>
+
+
+</head>
+
+
+<body>
+
+
+<div class="debug">
+    <label><input type="checkbox"> Debug</label>
+  </div>
+
+
+  <div class="parallax">
+    <div id="group1" class="parallax__group">
+      <div class="parallax__layer parallax__layer--base">
+     
+        
+				<div class="menu-collapsed">
+   				<div class="bar" id="bar"></div>
+  				 <nav>
+      				<ul>
+      				<li><a href="index.html">Trailer</a></li>
+    				<li><a href="about.html">About</a></li>
+    				<li><a href="crew.html">Crew</a></li>
+    				<li><a href="making.html">Making Masala Chai</a></li>
+      				</ul>
+   				</nav>
+				</div>
+						<div class="shlogo" id="shlogo">
+							<img class="img-responsive logo" src="assets/img/logo30.png">
+						</div>
+						<div class="" id="trailerdiv">
+							<button class="trailerbutton center-block">Trailer</button>
+						</div>
+				
+	
+      </div>
+    </div>
+
+     <div id="group2" class="parallax__group">
+      <div class="parallax__layer parallax__layer--back">
+
+			<div class="container fot">
+				<div class="row">
+					<div class="col-sm-4 col-md-4 adr">
+					 <p class ="adresse">Marco Hülser</p>
+					 <p class ="adresse">Musterstraße 27</p>
+					 <p class ="adresse">64285 Darmstadt</p>
+                	<p class="adresse"><a href="tel:+4916097276462">+49 (0)160 – 972 764 62</a></p>
+                	<p class="adresse"><a href="mailto:marcohülser@gmail.com">marco@masalachai.de</a></p>
+					</div>
+
+					<div class="col-sm-4 col-md-4 logo1">
+					<img class="img-responsive mchailogo" src="assets/img/mchai.png" alt="FBLOGO">
+					<img class="img-responsive vembarlogo" src="assets/img/vembarlogo.png" alt="Vembar">
+					</div>
+ 
+					<div class="col-sm-4 col-md-4 logo2">
+					<a href="https://www.facebook.com/Masala-Chai-530720797079376/?fref=ts"><img class="img-responsive fblogo" src="assets/img/fb5.png" alt="FBLOGO"></a>
+					<a href="https://www.facebook.com/Masala-Chai-530720797079376/?fref=ts"><img class="img-responsive imdblogo" src="assets/img/imdb5.png" alt="IMDb"></a>
+					</div>
+				</div>
+				<div class="row">
+				<p class="copyright"><a href="http://alidnd.com/maslachai" target="_blank"><strong>© 2017 MASALACHAI.DE</strong></a></p>
+				</div>
+			</div>
+
+      </div>
+</div>
+</div>
+  
+			<script>
+			$(document).ready(function(){
+				$("#bar").click(function() {
+  					$("#shlogo,#trailerdiv").toggle();
+				});
+
+
+				$(".menu-collapsed").click(function() {
+  					$(this).toggleClass("menu-expanded");
+				});
+				});
+
+
+		
+			</script>
+
+
+  <script>
+    var debugInput = document.querySelector("input");
+    function updateDebugState() {
+        document.body.classList.toggle('debug-on', debugInput.checked);
+    }
+    debugInput.addEventListener("click", updateDebugState);
+    updateDebugState();
+  </script>
+
+
+
+</body>
+</html>

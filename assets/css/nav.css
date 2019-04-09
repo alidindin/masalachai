@@ -1,0 +1,164 @@
+@import url(http://fonts.googleapis.com/css?family=Quicksand);
+
+html,
+body {
+/*
+   height: 100%;
+   background-color: #333;
+   
+   color: white;
+*/
+   font-family: 'KeepCalm';
+}
+
+.b-a, .bar, .bar:before, .bar:after {
+   transition: all .25s;
+   content: "";
+   position: absolute;
+   left: 0px;
+   height: 6px;
+   width: 30px;
+   border-radius: 15px;
+   background-color: rgba(215, 139, 44, 0.9);
+}
+
+.menu-collapsed {
+   transition: all .25s;
+   position: fixed;
+   top: 30px;
+   left: 9px;
+   height: 36px;
+   width: 36px;
+   z-index: 1;
+   cursor: pointer;
+}
+
+.menu-collapsed ul {
+   transition: all 0s;
+   position: fixed;
+   left: -9000px;
+
+}
+
+.bar {
+   position: fixed;
+   left: 22px;
+   top: 50px;
+}
+
+.bar:before {
+   top: -8px;
+}
+
+.bar:after {
+   top: 8px;
+}
+
+.b-a-expanded, .menu-expanded .bar:before, .menu-expanded .bar:after {
+   transition: all .25s;
+   top: -0px;
+}
+
+.menu-expanded {
+   transition: all .25s;
+   text-align: center;
+   line-height: 80px;
+   height: 100%;
+   width: 100%;
+   border-radius: 0px;
+   top: 400px;
+   left: 0;
+   background-color: none;
+   position: relative;
+}
+
+.menu-expanded ul {
+   transition: all 0s;
+   position: relative;
+   left: 0;
+   z-index: 2;
+   list-style: none;
+}
+
+.menu-expanded a {
+
+   transition: all .15s;
+   text-decoration: none;
+   font-size: 4em;
+
+   padding: 5px;
+   color: white;/*#503702;
+   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+   /*text-shadow: 5px 5px 2px black;*/
+
+     -webkit-text-stroke: 2px black;  /*
+  -webkit-text-fill-color: black;
+*/
+  -webkit-animation: fill 0.5s infinite alternate;
+}
+
+.menu-expanded a:hover {
+   transition: all .15s;
+   letter-spacing: 2px;
+   color: rgba(218, 150, 40, 0.8);
+   border: 1px solid rgba(218, 150, 40, 0.8);
+}
+
+.menu-expanded .bar {
+   background-color: transparent;
+   transition: all .25s;
+}
+
+.menu-expanded .bar:before {
+   transform: rotate(45deg);
+}
+
+.menu-expanded .bar:after {
+   transform: rotate(-45deg);
+}
+
+h1 {
+   font-size: 3em;
+   text-align: center;
+   line-height: 250px;
+}
+
+p {
+   width: 80%;
+   margin: 0 auto;
+   line-height: 20px;
+}
+
+
+
+
+@media only screen and (max-width: 1280px) {
+
+.menu-expanded {
+
+   top: 300px;
+
+}
+
+.menu-expanded a {
+
+
+   font-size: 3em;
+   padding: 5px;
+/*
+   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+   /*text-shadow: 5px 5px 2px black;*/
+}
+
+
+
+}
+
+@media only screen and (max-width: 768px) {
+
+.menu-expanded {
+
+   top: 300px;
+
+}
+
